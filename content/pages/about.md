@@ -73,11 +73,9 @@ sections:
         textAlign: left
       name:
         fontWeight: '400'
-        fontStyle: normal
         textAlign: left
       title:
         fontWeight: '400'
-        fontStyle: normal
         textAlign: left
     type: QuoteSection
   - elementId: ''
